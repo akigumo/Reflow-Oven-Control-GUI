@@ -1,5 +1,5 @@
 # Reflow-Oven-Control-GUI
-2nd year EE project on reflow oven control.
+EE project on reflow oven control.
 
 I created this GUI on LCD that allows user to change settings of the reflow oven.
 
